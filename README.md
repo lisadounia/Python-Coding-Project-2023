@@ -1,6 +1,6 @@
 # Netflix Content Analysis & Personalized Recommendation System
 
-This project was developed as part of a coding course at **Université catholique de Louvain** with the collaboration of **two other classmates**. It aims to analyze Netflix's content catalog and user ratings to build a **personalized recommendation system**. Using **Python (Pandas, Tabulate)**, we filter, sort, and manipulate the data to optimize content suggestions for users.
+This project was developed as part of a coding course at **Université catholique de Louvain** with the collaboration of **two other classmates**. It aims to analyze Netflix's content catalog and user ratings to build a **personalized recommendation system**. Using **Python**, we filter, sort, and manipulate the data to optimize content suggestions for users.
 
 Netflix provides thousands of movies and TV shows, and selecting what to watch can be overwhelming. Our system helps users discover content tailored to their preferences using an intelligent **category-based recommendation algorithm**.
 
