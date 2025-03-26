@@ -33,8 +33,4 @@ Netflix provides thousands of movies and TV shows, and selecting what to watch c
 - **Python 3.x**
 - **Pandas**: For data manipulation and analysis.
 - **Tabulate**: For displaying data in table format.
-- **Pygame** (optional): For future interactive features or extensions.
 
-Install required libraries:
-```bash
-pip install pandas tabulate pygame
